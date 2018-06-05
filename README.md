@@ -1,4 +1,4 @@
-# global-sprint
+# nteract global sprint
 
 **Build.**
 

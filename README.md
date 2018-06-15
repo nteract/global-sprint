@@ -1,6 +1,6 @@
 ![nteract global sprint](https://user-images.githubusercontent.com/836375/41489143-b680d0fe-70a3-11e8-93d2-cc3b8e5eabe7.png)
 
-## Summary
+-------
 
 Let's come together to collaborate, build connections, and impact interactive computing for the long term. Along the way, we'll learn from each other and foster a great community. 😊
 
@@ -8,11 +8,11 @@ This year, we're going global. 🌐 Our primary location will be in Los Gatos, C
 
 ## Who can come?
 
-You and others! Invite kind colleagues and companions that you'd like to collaborate with.
+👥 You and others! Invite kind colleagues and companions that you'd like to collaborate with.
 
 ## When is it?
 
-We'll start with relaxed weekend pre-sprints to accomodate those that can only do the weekend, followed by our more formal sprint.
+We'll start with relaxed weekend pre-sprints to accomodate those that can only do the weekend, followed by our more formal sprint. 🕐
 
 - Pre-sprint: July 28, 2018 - July 29, 2018
 - Formal Sprint: July 30, 2018 - August 3, 2018
@@ -21,11 +21,13 @@ You can pick and choose which days you wish to attend, don't feel bad if you nee
 
 ## Where is it?
 
-Primary: Netflix Headquarters in Los Gatos, CA. Building TBD.
+Primary: 🎥 Netflix Headquarters in Los Gatos, CA.  Building TBD.
 
-Satellites: None yet! Feel free to submit yours in an issue or PR.
+Satellites: 🛰 None yet! Feel free to submit yours in an issue or PR.
 
 ## How do I sign up?!
+
+🎟🎟🎟🎟🎟🎟🎟🎟🎟🎟
 
 For the Los Gatos location, [please get a (free) ticket via Eventbrite](https://nteract.slack.com/messages/C8GD9BZQV/details/). We need a headcount for accomodations and appreciate an early RSVP.
 

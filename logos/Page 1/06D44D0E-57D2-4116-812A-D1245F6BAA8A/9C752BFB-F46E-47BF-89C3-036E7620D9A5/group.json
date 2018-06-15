@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "9C752BFB-F46E-47BF-89C3-036E7620D9A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDE5A60E-7C4F-4068-ABF8-8C19ED808AD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "12FD0D97-50FD-4946-B5B3-6F35532FF373",
+    "height": 220.4343534057255,
+    "width": 220,
+    "x": 103,
+    "y": 750
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "21DCD67B-04B1-4AA6-B517-C8568E21B925"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C81D0CE-25F2-45A7-A454-3710270CF9EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C24404A6-104D-43EA-A978-0B77E2D9A994"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30C8C920-C487-45F1-8499-37931A1A2973"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1790262E-15FF-4958-AEB9-7BC29F99739F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D33B824C-0B4D-4C01-9106-824AF19D4BB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "423EEF59-6CBF-4C04-B498-64489E13A804"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BDB9C60-ED3F-4192-8940-B6AE66851FE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CEA9B25-EA64-4E2D-B84B-2B5E7A738161"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F79B250B-C453-4AC6-8E75-6DF3350BABC0"
+    }
+  ],
+  "name": "nteract_logo_app_icon_purple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDB55C79-CD64-4239-AFC4-4CC1D2581B28",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

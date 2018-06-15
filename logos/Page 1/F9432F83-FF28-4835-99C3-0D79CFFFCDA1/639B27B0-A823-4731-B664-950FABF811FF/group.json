@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "639B27B0-A823-4731-B664-950FABF811FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D73898CF-3BAD-4977-BC8C-BBBAC6964889",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F877AF97-CBED-48F7-A09A-B579A897C052",
+    "height": 280.8615384615385,
+    "width": 280,
+    "x": 1155,
+    "y": 404
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "A83D7679-E910-4DEC-8C59-8D5BB0CC66E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8959308B-19D3-46C6-8A84-BF74D7BEA5D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41C6AE83-E0CD-4B0C-BB17-D5D69C89E8EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "937A47E0-A0A0-460C-B15E-F52AA6AC956B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF12B16A-9292-40BD-8BBB-0CACE3B0AC84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "147CF35B-12D1-49F1-8203-7650711E2D7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C0AA329-FD34-4D8E-9F3B-F10346B016C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99D8B108-BB81-4A4F-BD8B-FEB75BF525D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5077DFA-C11F-4453-8033-B861AD9C2DED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B763D5AA-7E5F-46CD-A699-8D1660657A13"
+    }
+  ],
+  "name": "nteract_logo_app_icon_red",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91CBBC9F-546D-4E13-81DC-F1D5ADE6DB94",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "3FABD81B-1D24-433A-AE11-EBBCF07C8320",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30C0C8D8-CAE2-43C1-BF05-1EB01D97F380",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6C6DC3B5-D0DE-40AB-9173-EB01F2A7AD94",
+    "height": 280.8615384615385,
+    "width": 280,
+    "x": 151,
+    "y": 404
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C28433CF-2024-429C-B675-DCAA25B1185B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "283FD060-0F7F-4A82-9AAE-40D8134E5E8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D8EDB0B-6546-4591-AA62-592B9C61FCEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "333FAE74-BE26-4CCB-80BA-B6B93C673E86"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "289B6153-9D67-416E-94BE-C78142B8ADA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F93B46A7-617D-4B7A-A4CD-3B0DB19DDAC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F06253A-1304-4076-8852-FEBE3601D8CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04CCB2AA-6999-43A7-96FE-EAECF0E2CE6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F2DFC1B-ECF8-4B76-8616-CA5B89372CCA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00F0365C-DC11-4CDB-9199-68ECE30B430C"
+    }
+  ],
+  "name": "nteract_logo_app_icon_red",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEFC6F45-769A-4584-8196-558F124D8217",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+
+# Ignore sketch files
+*.sketch

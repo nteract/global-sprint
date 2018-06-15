@@ -13,6 +13,7 @@ Folks have been asking about running an in-person nteract sprint (like the one w
 When: 
 
 Pre-Sprint: Saturday July 28, 2018 to Sunday July 29, 2018
+
 Main Sprint: **Monday July 30, 2018 to Friday August 3rd**
 
 Where: Netflix Los Gatos (or at a satellite location near you!)

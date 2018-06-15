@@ -45,4 +45,4 @@ You're free to pick whatever you want to work on within the Jupyter ecosystem an
 
 Not sure what to work on? 🤷‍♀️ We'll be making a list of projects with project leads.
 
-Need help on a project? 👷🏼👷🏾‍♀️ You can lead a project! We'll make guidelines to help project leads soon.
+Need help on a project? 👷🏼👷🏾‍ You can lead a project! We'll make guidelines to help project leads soon.

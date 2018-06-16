@@ -29,7 +29,7 @@ Satellites: 🛰 None yet! Feel free to submit yours in an issue or PR.
 
 🎟🎟🎟🎟🎟🎟🎟🎟🎟🎟
 
-For the Los Gatos location, [please get a (free) ticket via Eventbrite](https://nteract.slack.com/messages/C8GD9BZQV/details/). We need a headcount for accomodations and appreciate an early RSVP.
+For the Los Gatos location, [please get a (free) ticket via Eventbrite](https://www.eventbrite.com/e/nteract-summer-2018-global-sprint-bay-area-tickets-47119960069). We need a headcount for accomodations and appreciate an early RSVP.
 
 If you sign up before July 1st, you will receive a totally sweet sticker during the sprints.
 

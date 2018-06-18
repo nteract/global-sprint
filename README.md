@@ -12,7 +12,7 @@ This year, we're going global. 🌐 Our primary location will be in Los Gatos, C
 
 ## When is it?
 
-We'll start with relaxed weekend pre-sprints to accomodate those that can only do the weekend, followed by our more formal sprint. 🕐
+We'll start with relaxed weekend pre-sprints to accommodate those that can only do the weekend, followed by our more formal sprint. 🕐
 
 - Pre-sprint: July 28, 2018 - July 29, 2018
 - Formal Sprint: July 30, 2018 - August 3, 2018
@@ -47,4 +47,4 @@ You're free to pick whatever you want to work on within the Jupyter ecosystem an
 
 Not sure what to work on? 🤷‍♀️ We'll be making a list of projects with project leads.
 
-Need help on a project? 👷🏼👷🏾‍ You can lead a project! We'll make guidelines to help project leads soon.
+Need help on a project?‍ You can lead a project! We'll make guidelines to help project leads soon.

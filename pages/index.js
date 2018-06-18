@@ -71,8 +71,6 @@ class Index extends React.Component {
       <div>
         <Hero>
           <h1>nteract global sprint</h1>
-          <br />
-          <h2>🌐🏃🏿🏃🏽‍♀️🏃🏻🏃‍♀️</h2>
         </Hero>
         <Sections>
           <Participate />

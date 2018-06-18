@@ -1,0 +1,28 @@
+{
+  "name": "@nteract/global-sprint",
+  "version": "1.0.0",
+  "description": "Build. Share. Learn. It's the nteract global sprint (site)!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nteract/global-sprint.git"
+  },
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nteract/global-sprint/issues"
+  },
+  "homepage": "https://github.com/nteract/global-sprint#readme",
+  "dependencies": {
+    "@mdx-js/mdx": "^0.10.1",
+    "@zeit/next-mdx": "^1.1.0",
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}

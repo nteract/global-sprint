@@ -11,7 +11,7 @@ export default class MyDocument extends Document {
       <html>
         <Head>
           <link
-            href="https://fonts.googleapis.com/css?family=Nunito"
+            href="https://fonts.googleapis.com/css?family=Nunito:400,700"
             rel="stylesheet"
           />
           <style>{`body { margin: 0 } html { margin: 0 }`}</style>

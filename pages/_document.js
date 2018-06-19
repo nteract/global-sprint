@@ -14,7 +14,24 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Nunito:400,700"
             rel="stylesheet"
           />
-          <style>{`body { margin: 0 } html { margin: 0 }`}</style>
+          <style>{`
+            :root {
+              --outline-color: #11111177;
+              --inline-color: #00000022;
+            }
+
+            body, html {
+              margin: 0;
+              padding: 0;
+              color: var(--inline-color);
+              text-shadow: 1px 0 0 var(--outline-color), 0 -1px 0 var(--outline-color), 0 1px 0 var(--outline-color), -1px 0 0 var(--outline-color);
+            }
+
+            html {
+              background-color: #ff598f;
+            }
+
+            `}</style>
         </Head>
         <body className="custom_class">
           <Main />

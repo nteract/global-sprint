@@ -160,6 +160,8 @@ class Index extends React.Component {
             margin: 0;
             padding: 0;
             font-family: "Nunito", sans-serif;
+            color: black;
+            /* color: rgb(99, 99, 99); */
           }
         `}</style>
       </div>

@@ -45,3 +45,20 @@ Developer focused documentation to help us build nteract and enable more people 
 TODO: Outline how to start documenting a new component
 
 TODO: Outline how to change / update a new component doc
+
+#### Documenting exported functions and other objects
+
+TODO: Confirm if this will be a focus and which tools we will use. Will we build package docs indidually or can we build the whole monorepo together? Can we incorporate styleguide docs together or do we keep components separate?
+
+Topics to cover:
+
+- Link to and/or comment on how to write JSDoc style comments
+
+- Building docs with [documentation.js](https://github.com/documentationjs/documentation/blob/master/docs/GETTING_STARTED.md), for example:
+
+  ```
+  cd packages/core
+  documentation serve src/index.js
+  ```
+
+- [Adding a docstring above flow type annotations](https://github.com/documentationjs/documentation/blob/master/docs/GETTING_STARTED.md#flow-type-annotations)

@@ -48,7 +48,7 @@ TODO: Outline how to change / update a new component doc
 
 #### Documenting exported functions and other objects
 
-TODO: Confirm if this will be a focus and which tools we will use. Will we build package docs indidually or can we build the whole monorepo together? Can we incorporate styleguide docs together or do we keep components separate?
+TODO: Confirm if this will be a focus and which tools we will use. Will we build package docs individually or can we build the whole monorepo together? Can we incorporate styleguide docs together or do we keep components separate?
 
 Topics to cover:
 

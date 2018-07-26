@@ -4,7 +4,7 @@
 
 **Project**: User focused documentation on how to use the nteract apps, including how to deal with pesky things like conda environments, kernels, etc.
 
-**Site**: `docs.nteract.io`
+**Repo**: https://github.com/nteract/user-guide
 
 User facing documentation on nteract
 

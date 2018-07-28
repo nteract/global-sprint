@@ -1,12 +1,11 @@
 ### The high level problem
 
-Currently ijavascript is maintained by a third party and has a variety of bugs and lack of features that hurts the end user experience.
+We'd like to explore another way of handling a node.js kernel that is more closely aligned with how the chrome repl works.
 
 Examples:
   - Console.log() seems to spurriously fail to enter output
   - Rerunning cells with let/const causes errors that break execution when they really shouldn't
-  - async / await doesn't work
-  - No ability to use (debugger) statements when I think we could
+  - async / await at a top level
   - No bundling of nice to have libraries
 
 ### What could we do?

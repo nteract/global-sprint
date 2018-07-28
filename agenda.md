@@ -1,5 +1,11 @@
 # Agenda
 
+Location for Los Gatos, CA sprints:
+
+Netflix Building F
+111 Albright Way
+Los Gatos, CA 95032
+
 ## Pre-Sprint
 
 ### Day 0: Saturday, July 28th

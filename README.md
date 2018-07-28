@@ -21,7 +21,7 @@ You can pick and choose which days you wish to attend, don't feel bad if you nee
 
 ## Where is it?
 
-Primary: 🎥 Netflix Headquarters in Los Gatos, CA.  Building F. Ping us on Slack to let us know when you arrive, and we'll let you in!
+Primary: 🎥 Netflix Headquarters in Los Gatos, CA.  Building F. Ping us [on Slack](https://slack.nteract.io/) to let us know when you arrive, and we'll let you in!
 
 Satellites: 🛰 None yet! Feel free to submit yours in an issue or PR.
 

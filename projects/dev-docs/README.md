@@ -25,7 +25,7 @@ Developer focused documentation to help us build nteract and enable more people 
   1.  Fork [the nteract monorepo](https://github.com/nteract/nteract)
   2.  Clone your fork or the nteract monorepo `git clone https://github.com/nteract/nteract`
   3.  `cd` to the directory where you `clone`d it
-  4.  `yarn install`
+  4.  `yarn`
 
   To keep up-to-date with changes to the root nteract/nteract branch:
 
@@ -34,7 +34,7 @@ Developer focused documentation to help us build nteract and enable more people 
   When changes are made, they can then be pulled from the master branch:
 
   6.  `git pull upstream master`
-  7.  `yarn install`
+  7.  `yarn`
 
 - Run a local docs server with `npm run docs`. Note the `Local:` IP provided. Use that to get to your local auto-building docs server!
 

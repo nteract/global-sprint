@@ -25,7 +25,7 @@ Developer focused documentation to help us build nteract and enable more people 
   1.  Fork [the nteract monorepo](https://github.com/nteract/nteract)
   2.  Clone your fork or the nteract monorepo `git clone https://github.com/nteract/nteract`
   3.  `cd` to the directory where you `clone`d it
-  4.  `npm install`
+  4.  `yarn install`
 
   To keep up-to-date with changes to the root nteract/nteract branch:
 
@@ -34,7 +34,7 @@ Developer focused documentation to help us build nteract and enable more people 
   When changes are made, they can then be pulled from the master branch:
 
   6.  `git pull upstream master`
-  7.  `npm install`
+  7.  `yarn install`
 
 - Run a local docs server with `npm run docs`. Note the `Local:` IP provided. Use that to get to your local auto-building docs server!
 
@@ -42,9 +42,35 @@ Developer focused documentation to help us build nteract and enable more people 
 
 #### Documenting a new component
 
-TODO: Outline how to start documenting a new component
+We are using [React Stylist](https://react-styleguidist.js.org/) for documenting
+component examples. There is a top-level `styleguide.config.js` configuration
+file in the nteract repo that determines which components are included in the
+docs and under what heading (see the "sections" portion), which you may need to
+amend if the thing you're documenting isn't being included yet.
 
-TODO: Outline how to change / update a new component doc
+All files without documentation that are being included by our configuration
+will have a placeholder "Add examples to this component" instructions, which are
+paraphrased here:
+
+To document a new component, create a `Readme.md` or `SomeComponent.md` file in
+the component's folder like this:
+
+    Here's an example some component example:
+
+    ```js
+    <SomeComponent specialProperty="coolValue" _someStateSetting />
+    ```
+
+Additionally, inline comment blocks in `.js` files...
+
+    /**
+     * That look like this
+     */
+
+...when sprinkled above of Flow type annotations and anything that is `export`ed
+will also get included in the rendered docs (markdown formatting is supported
+within those, so, *mark* my words, it will be *up* to you to have fun with it).
+
 
 #### Documenting exported functions and other objects
 

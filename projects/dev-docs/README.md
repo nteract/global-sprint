@@ -88,3 +88,8 @@ Topics to cover:
   ```
 
 - [Adding a docstring above flow type annotations](https://github.com/documentationjs/documentation/blob/master/docs/GETTING_STARTED.md#flow-type-annotations)
+
+
+### Resources
+
+* [A Design Doc for Design Docs](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
